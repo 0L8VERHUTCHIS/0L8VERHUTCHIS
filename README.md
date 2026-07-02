@@ -17,7 +17,6 @@
 <h6 align="center"><br><br>loversㅤsinceㅤ<ins>29</ins> - <ins>08</ins> - <ins>25</ins></h6>
 
 ###
-
-p align="center"> 
+ 
 <p align="center">  
  <img src="https://files.catbox.moe/8q52jd.png" width="400" alt="Description">
