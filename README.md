@@ -17,8 +17,10 @@
 <h6 align="center">
 ♡ lovers since <ins>29</ins> · <ins>08</ins> · <ins>25</ins> ♡
 </h6>
+<𝚙 𝚊𝚕𝚒𝚐𝚗="𝚌𝚎𝚗𝚝𝚎𝚛">
+𝚌𝚘𝚘𝚔𝚒𝚎 𝚛𝚞𝚗 • 𝚙𝚘𝚗𝚢 𝚝𝚘𝚠𝚗 • 𝚟𝚘𝚌𝚊𝚕𝚘𝚒𝚍
+</𝚙>
 
-###
  
 <p align="center">  
  <img src="https://files.catbox.moe/8q52jd.png" width="400" alt="Description">
